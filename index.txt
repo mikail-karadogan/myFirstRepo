@@ -1,1 +1,1 @@
-Hello world
+Merhaba dünya olarak değiştirildi
